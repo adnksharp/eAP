@@ -14,6 +14,11 @@ Servidor iniciado
 
 Crear un punto de acceso WiFi usando un nodeMCU ESP8266 en Arduino.
 
+## Hardware y software necesarios
+- Placa de desarrollo nodeMCU ESP8266.
+- [Arduino IDE](https://www.arduino.cc/en/software) o [Arduino CLI](https://arduino.github.io/arduino-cli/0.23/installation/).
+- Librerías `ESP8266WiFi`, `WiFiClient` y `ESP8266WebServer` para el nodeMCU ESP8266.
+
 ## Funcionamiento
 ### Variables
 - `SSID`: Nombre de la red WiFi a crear.
